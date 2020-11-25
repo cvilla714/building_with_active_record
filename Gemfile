@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-gem 'rubocop', '~>0.81.0'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.7.0'
