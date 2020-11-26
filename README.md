@@ -2,7 +2,7 @@
 
 # Building With Active Records
 
-> One paragraph statement about the project.
+> This project is about active records,models, and associations to the tests. This  application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.For each scenario, we are asked to write down the data, associations, and validations necessary to build it. That means which models (data tables) will be necessary to store the data (and which columns you will need), which fields of those tables will be subject to validation (e.g. minimum password length or username uniqueness). 
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,46 +10,36 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby 
+- Rails
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+### Install 
+Ruby and install Rails on your local machine
 
 ### Setup
+Open your terminal and go to the directory where you want to clone the repo.
 
-### Install
+Clone the repository to your local machine. Type $ git clone ` git@github.com:https://github.com/cvilla714/building_with_active_record.git `
 
-### Usage
+Go to the building_with_active_records directory. Type $ cd building_with_active_records
 
-### Run tests
+Install the necessary gems to run the project. Type $ bundle install
 
-### Deployment
+Now your environment is ready to run the project. Type rails c
 
 ## Authors
 
-👤 **Author1**
+👤 **Andjela Vukadinovic**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@410AngelaVu](https://github.com/410AngelaVu)
+- Twitter: [@andjelavukadin7](https://twitter.com/andjelavukadin7)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/)
 
-👤 **Author2**
+👤 **Devkc**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub:  [@cvilla714](https://github.com/cvilla714) 
+- Twitter: [@kckeyti](https://twitter.com/kckeyti)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmel-villalobos-1900531aa/) 
 
 ## 🤝 Contributing
 
@@ -60,13 +50,3 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
